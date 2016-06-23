@@ -100,6 +100,18 @@ Anne Janelle N. Francisco
 
 - Give an example for hypothetical syllogism, ((p → q) ∧ (q → r)) → (p → r).<br> If Punu is cute, then she is cuddly. And if Punu is cuddly, then she is short. Therefore, if Punu is cuddly, then Punu is short.
 
+- Special exercise, find the logical equivalence <br> Given: [(p v q) ∧ (-p v r)] → (q v r)<br> Step by step process:
+
+  | Given: [(p v q) ∧ (-p v r)] → (q v r)| Name of Law |
+| :--- | :---:|
+| -[(p v q) ∧ (-p v r)] v (q v r) | Implication of logical equivalence <br> p → q ≡ ¬p v q |
+| --[(p v q) v (-p v r)] v (q v r) | De Morgan's law |
+| --[(p v -p) v (q v r)] v (q v r ) | Associative law |
+| --[ T v (q v r)] v (q v r ) | Negation law |
+| --[ T v (q v q) v (r v r)] | Associative law |
+| --[ T v q v r ] | Idempotent law |
+| T | Domination law |
+
 - Assignment given on June 23, 2016:
 
 - 1.5 / 5: Let W (x, y) mean that student x has visited website y, where the domain for x consists of all students in your school and the domain for y consists of all websites. Ex- press each of these statements by a simple English sen-
