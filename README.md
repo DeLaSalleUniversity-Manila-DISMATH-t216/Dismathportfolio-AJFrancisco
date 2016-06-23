@@ -12,7 +12,7 @@ Anne Janelle N. Francisco
 - Assignment (June 21, 2016)
 - 1.1 / 31c
 
-| p | q | -q | p v -q | (p v -q) → q |
+  | p | q | -q | p v -q | (p v -q) → q |
 | :--- | :---:| ---: | ---: | ---: |
 | T | F | T | T | F |
 | F | T | F | F | T |
@@ -21,7 +21,7 @@ Anne Janelle N. Francisco
 
 - 1.1 / 33d
 
-| p | q | -p | p ↔ q | p ↔ q | (p ↔ q)  ⊕  (-p ↔ q)|
+  | p | q | -p | p ↔ q | p ↔ q | (p ↔ q)  ⊕  (-p ↔ q)|
 | :--- | :---:| ---: | ---: | ---: | ---: |
 | T | F | F | F | T | T |
 | F | T | T | F | T | T |
@@ -30,7 +30,7 @@ Anne Janelle N. Francisco
 
 - 1.1 / 35e
 
-| p | q | -p | p ↔ q | -p ↔ q | (p ↔ q) v (-p ↔ q)|
+  | p | q | -p | p ↔ q | -p ↔ q | (p ↔ q) v (-p ↔ q)|
 | :--- | :---:| ---: | ---: | ---: | ---: |
 | T | F | F | F | T | T |
 | F | T | T | F | T | T |
@@ -39,7 +39,7 @@ Anne Janelle N. Francisco
 
 - 1.1 / 37f
 
-| p | -p | q | -q | r | -p ↔ -q | q ↔ r | (-p ↔ -q) ↔ (q ↔ r) |
+  | p | -p | q | -q | r | -p ↔ -q | q ↔ r | (-p ↔ -q) ↔ (q ↔ r) |
 | :--- | :---:| ---: | ---: | ---: | ---: | ---: | ---: |
 | F | T | F | T | T | F | F | T |
 | F | T | T | F | F | T | F | F |
