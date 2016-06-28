@@ -114,9 +114,8 @@ Anne Janelle N. Francisco
 
 - Assignment given on June 23, 2016:
 
-- 1.5 / 5: Let W (x, y) mean that student x has visited website y, where the domain for x consists of all students in your school and the domain for y consists of all websites. Ex- press each of these statements by a simple English sen-
-tence.<br> c) ∃y W (José Orez, y ) = 
+- 1.5 / 5: Let W (x, y) mean that student x has visited website y, where the domain for x consists of all students in your school and the domain for y consists of all websites. Express each of these statements by a simple English sentence.<br> c) ∃y W (José Orez, y ) = Jose Orez has visited some websites.
 
-- 1.5 / 7: Let T(x,y)meanthatstudentxlikescuisiney,wherethe domain for x consists of all students at your school and the domain for y consists of all cuisines. Express each of these statements by a simple English sentence.<br> d) ∀x∀z∃y((x̸=z)→¬(T(x,y)∧T(z,y))) =
+- 1.5 / 7: Let T(x,y)mean that student x likes cuisine y,wherethe domain for x consists of all students at your school and the domain for y consists of all cuisines. Express each of these statements by a simple English sentence.<br> d) ∀x∀z∃y((x̸=z)→¬(T(x,y)∧T(z,y))) = For every pair of distinct students at your school, there is some cuisine that at least one them does not like.
 
-- 1.5 / 9: Let L(x, y) be the statement “x loves y,” where the domain for both x and y consists of all people in the world. Use quantifiers to express each of these statements.<br> e) There is somebody whom Lydia does not love. = 
+- 1.5 / 9: Let L(x, y) be the statement “x loves y,” where the domain for both x and y consists of all people in the world. Use quantifiers to express each of these statements.<br> e) There is somebody whom Lydia does not love. = ∃y -L(Lydia,y)
