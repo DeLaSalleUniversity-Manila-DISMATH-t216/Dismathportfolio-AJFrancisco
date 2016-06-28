@@ -6,7 +6,18 @@ Anne Janelle N. Francisco
 - Sir also introduced to us the Propositions and asked us one by one about it. I was asked if x+9=11 is a proposition and I answered no because we do not know the true value of x which may or may not satisfy the statement.
 - On our next meeting, we tacked about gates which was also discussed during our days in Logicir. 
 - We answered the exercises (odd numbers) one by one in class. The questions were mainly about translating the equation into a statement with the given phrases. 
+- I answered the following in class today (June 16, 2016)
 
+| Question (Chapter 1.1) |  Question | Answer|
+|:------------------------:|---------|:-----:|
+| 8-c | p: I bought a lottery ticket this week.<br/> q: I won the million dollar jackpot.<br/> Express p → q as an English sentence. | If I bought a lottery ticket this week, then I won the million dollar jackpot. |
+| 11-b | p: It is below freezing.<br/> q: It is snowing.<br/> Write "It is below freezing but not snowing" using p and q and logical connectives (including negations). | p ∧ -q |
+| 15-a | p: Grizzly bears have been seen in the area.<br/> q: Hiking is safe on the trail.<br/> r: Berries are ripe along the trail. Write "Berries are ripe along the trail, but grizzly bears have not been seen in the area." using p, q, and r and logical connectives (including negations). | r ∧ -p |
+| 17-b | Determine whether "If 1 + 1 = 3, then 2 + 2 = 4." is true or false. | True |
+| 19-c | Determine whether "The prerequisite for the course is a course in number theory or a course in cryptography." an inclusive or, exclusive or, is intended. | Inclusive |
+| 25-b | Write "For you to win the contest it is necessary and sufficient that you have the only winning ticket." in the form of "p if and only if q" in English | You will win the contest, if and only if, you have the only winning ticket. |
+| 29-a | How many rows appear in a truth table for "p →¬p" | 2^1 = 2
+<br/>
 
 
 - Assignment (June 21, 2016)
