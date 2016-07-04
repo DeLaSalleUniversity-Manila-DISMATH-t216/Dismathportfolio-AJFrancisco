@@ -130,3 +130,20 @@ Anne Janelle N. Francisco
 - 1.5 / 7: Let T(x,y)mean that student x likes cuisine y,wherethe domain for x consists of all students at your school and the domain for y consists of all cuisines. Express each of these statements by a simple English sentence.<br> d) ∀x∀z∃y((x̸=z)→¬(T(x,y)∧T(z,y))) = For every pair of distinct students at your school, there is some cuisine that at least one them does not like.
 
 - 1.5 / 9: Let L(x, y) be the statement “x loves y,” where the domain for both x and y consists of all people in the world. Use quantifiers to express each of these statements.<br> e) There is somebody whom Lydia does not love. = ∃y -L(Lydia,y)
+
+# Week 3
+- Assignment given on June 28, 2016
+
+- 1.7 / 5: Prove that if m + n and n + p are even integers, where m, n, and p are integers, then m + p is even. What kind of proof did you use?
+
+  | m + n = even and n + p = even | Steps |
+| :--- | :---|
+| m + n = 2s and n + p = 2u | Since they are even integers, let the sum be 2(integer) |
+| m + n + n + p = 2s + 2u | We add both equations together |
+| m + 2n + p = 2s + 2u | Equations now added |
+| m + 2n + p - 2n = 2s + 2u - 2n | We now subtract 2n from both sides of the equation |
+| m + p = 2s + 2u -2n | Factor out the 2 from the right side |
+| m + p = 2(s + u - n) | Consider (s + u - n) as one integer |
+  Therefore, m + p is an even integer. We used direct proof.
+
+- 1.7 / 19: Prove the proposition P (0), where P (n) is the proposition “If n is a positive integer greater than 1, then n2 > n.” What kind of proof did you use?<br>0 is not an integer, therefore the proposition is vacuosuly true.
