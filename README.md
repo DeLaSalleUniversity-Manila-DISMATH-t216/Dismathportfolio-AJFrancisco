@@ -154,6 +154,15 @@ Anne Janelle N. Francisco
 
 - 1.7 / 37: Show that the propositions p1, p2, p3, p4, and p5 can be shown to be equivalent by proving that the conditional statements p1 → p4, p3 → p1, p4 → p2, p2 → p5, and p5 → p3 are true.<br><b>[(p1 → p4) ∧ (p4 → p2) ∧ (p2 → p5) ∧ (p5 → p3) ∧ (p3 → p1)] → (p1 → p1)<br><b>We used hypothetical syllogism.</b></b>
 
+- 1.8 / 1: Prove that n2 + 1 ≥ 2n when n is a positive integer with 1≤n≤4.
+
+  | Proof by cases | ** |
+| :--- | :--- |
+| <b>@ n = 1</b><br>1^2 + 1 ≥ 2^1<br>2 ≥ 2<br>Correct! | <b>@ n = 2</b><br>2^2 + 1 ≥ 2^2<br>4 + 1 ≥ 4<br>5 ≥ 4<br>Correct! |
+| <b>@ n = 3</b><br>3^2 + 1 ≥ 2^3<br>9 + 1 ≥ 8<br>10 ≥ 8<br>Correct! | <b>@ n = 4</b><br>4^2 + 1 ≥ 2^4<br>16 + 1 ≥ 16<br>17 ≥ 16<br>Correct! |<br>
+
+- Here are some exercises my classmates guided me through:
+
 - 1.7 / 29: Prove or disprove that if m and n are integers such that mn = 1, then either m = 1 and n = 1, or else m = −1 and n = −1.
 
   | m and n are integers |
@@ -164,4 +173,3 @@ Anne Janelle N. Francisco
 | From q, we substitute the value of m to the equation from p. m=1/n, 1=1/n, n=1. <br>This satisfies the given n=1. |
 | From r, we substitute the value of m to the equation from p. m=1/n, -1=1/n, n=-1. <br>This satisfies the given n=-1. |
 | <b>We used direct proof.</b> |
-
