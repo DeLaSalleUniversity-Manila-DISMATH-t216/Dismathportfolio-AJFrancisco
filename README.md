@@ -155,7 +155,13 @@ Anne Janelle N. Francisco
 - 1.7 / 37: Show that the propositions p1, p2, p3, p4, and p5 can be shown to be equivalent by proving that the conditional statements p1 → p4, p3 → p1, p4 → p2, p2 → p5, and p5 → p3 are true.<br><b>[(p1 → p4) ∧ (p4 → p2) ∧ (p2 → p5) ∧ (p5 → p3) ∧ (p3 → p1)] → (p1 → p1)<br><b>We used hypothetical syllogism.</b>
 
 - 1.7 / 29: Prove or disprove that if m and n are integers such that mn = 1, then either m = 1 and n = 1, or else m = −1 and n = −1.
+
 | m and n are integers |
 | :--- |
 | mn = 1 ; m=1 and n=1 OR m=-1 and n=-1 |
+| mn=1 → {[(m=1) ∧ (n=1)] OR [(m=-1) ∧ (n=-1)]} ; p → (q v r) |
+| Using p is equal to mn=1, we can get the equations m=1/n. |
+| From q, we substitute the value of m to the equation from p. m=1/n, 1=1/n, n=1. This satisfies the given n=1. |
+| From r, we substitute the value of m to the equation from p. m=1/n, -1=1/n, n=-1. This satisfies the given n=-1. |
+| <b>We used direct proof</b> |
 
