@@ -152,7 +152,7 @@ Anne Janelle N. Francisco
 # Week 4
 - I answered the following in class today (July 5, 2016):
 
-- 1.7 / 37: Show that the propositions p1, p2, p3, p4, and p5 can be shown to be equivalent by proving that the conditional statements p1 → p4, p3 → p1, p4 → p2, p2 → p5, and p5 → p3 are true.<br><b>[(p1 → p4) ∧ (p4 → p2) ∧ (p2 → p5) ∧ (p5 → p3) ∧ (p3 → p1)] → (p1 → p1)<br><b>We used hypothetical syllogism.</b>
+- 1.7 / 37: Show that the propositions p1, p2, p3, p4, and p5 can be shown to be equivalent by proving that the conditional statements p1 → p4, p3 → p1, p4 → p2, p2 → p5, and p5 → p3 are true.<br><b>[(p1 → p4) ∧ (p4 → p2) ∧ (p2 → p5) ∧ (p5 → p3) ∧ (p3 → p1)] → (p1 → p1)<br><b>We used hypothetical syllogism.</b></b>
 
 - 1.7 / 29: Prove or disprove that if m and n are integers such that mn = 1, then either m = 1 and n = 1, or else m = −1 and n = −1.
 
