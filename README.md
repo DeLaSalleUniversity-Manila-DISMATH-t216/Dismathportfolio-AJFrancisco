@@ -156,7 +156,7 @@ Anne Janelle N. Francisco
 
 - 1.7 / 29: Prove or disprove that if m and n are integers such that mn = 1, then either m = 1 and n = 1, or else m = −1 and n = −1.
 
-  </b>| m and n are integers |
+  | m and n are integers |
 | :--- |
 | mn = 1 ; m=1 and n=1 OR m=-1 and n=-1 |
 | mn=1 → {[(m=1) ∧ (n=1)] OR [(m=-1) ∧ (n=-1)]} ; p → (q v r) |
