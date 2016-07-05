@@ -66,7 +66,7 @@ Anne Janelle N. Francisco
 - I answered the following in class today (June 21, 2016):
 
 
-- 1.3 / 7c: Use De Morgan's laws to find the negation of the statement: Mei walks or takes the bus to class. <br> Answer: Mei does not walk and take the bus to class.
+- 1.3 / 7c: Use De Morgan's laws to find the negation of the statement: Mei walks or takes the bus to class. <br><b> Answer: Mei does not walk and take the bus to class.</b>
 
 - 1.3 / 17: Show that ¬(p ↔ q) and p ↔ ¬q are logically equivalent.
 
@@ -95,21 +95,21 @@ Anne Janelle N. Francisco
 - Disjuntion = OR, conjunction = AND, negation = NOT
 - I answered the following in class today (June 23, 2016):
 
-- 1.4 / 5: Let P (x) be the statement “x spends more than five hours every weekday in class,” where the domain for x consists of all students. Express each of these quantifications in English.<br> a) ∃xP(x) = There is a student who spends more than give hours every weekday in class.
+- 1.4 / 5: Let P (x) be the statement “x spends more than five hours every weekday in class,” where the domain for x consists of all students. Express each of these quantifications in English.<br><b> a) ∃xP(x) = There is a student who spends more than give hours every weekday in class.</b>
 
-- 1.4 / 7: Translate these statements into English, where C(x) is “x is a comedian” and F(x) is “x is funny” and the domain consists of all people.<br> c) ∃x(C(x)→F(x)) = There exist if he/she is a comedian, then he/she is funny.
+- 1.4 / 7: Translate these statements into English, where C(x) is “x is a comedian” and F(x) is “x is funny” and the domain consists of all people.<br><b> c) ∃x(C(x)→F(x)) = There exist if he/she is a comedian, then he/she is funny.</b>
 
-- 1.4 / 11: Let P(x) be the statement “x = x2.” If the domain con- sists of the integers, what are these truth values?<br> b) P(1) = TRUE
+- 1.4 / 11: Let P(x) be the statement “x = x2.” If the domain con- sists of the integers, what are these truth values?<br><b> b) P(1) = TRUE</b>
 
-- 1.4 / 13: Determine the truth value of each of these statements if the domain consists of all integers.<br> c) ∃n(n = −n) = TRUE
+- 1.4 / 13: Determine the truth value of each of these statements if the domain consists of all integers.<br><b> c) ∃n(n = −n) = TRUE</b>
 
-- 1.4 / 17: Suppose that the domain of the propositional function P(x) consists of the integers 0, 1, 2, 3, and 4. Write out each of these propositions using disjunctions, conjunc- tions, and negations.<br> b) ∀xP(x) = Conjunction
+- 1.4 / 17: Suppose that the domain of the propositional function P(x) consists of the integers 0, 1, 2, 3, and 4. Write out each of these propositions using disjunctions, conjunc- tions, and negations.<br><b> b) ∀xP(x) = Conjunction</b>
 
-- 1.5 / 1: Translate these statements into English, where the domain for each variable consists of all real numbers.<br> b) ∀x∀y(((x ≥ 0)∧(y ≥ 0)) → (xy ≥ 0)) = For all x and for all y, if noth are not negative/positive, then the product is also not negative/positive.
+- 1.5 / 1: Translate these statements into English, where the domain for each variable consists of all real numbers.<br><b> b) ∀x∀y(((x ≥ 0)∧(y ≥ 0)) → (xy ≥ 0)) = For all x and for all y, if noth are not negative/positive, then the product is also not negative/positive.</b>
 
-- 1.5 / 3: Let Q(x, y) be the statement “x has sent an e-mail mes- sage to y,” where the domain for both x and y consists of all students in your class. Express each of these quantifi- cations in English.<br> f) ∀x∀yQ(x,y) = All students sent an email message to the whole class.
+- 1.5 / 3: Let Q(x, y) be the statement “x has sent an e-mail mes- sage to y,” where the domain for both x and y consists of all students in your class. Express each of these quantifi- cations in English.<br><b> f) ∀x∀yQ(x,y) = All students sent an email message to the whole class.</b>
 
-- Give an example for hypothetical syllogism, ((p → q) ∧ (q → r)) → (p → r).<br> If Punu is cute, then she is cuddly. And if Punu is cuddly, then she is short. Therefore, if Punu is cuddly, then Punu is short.
+- Give an example for hypothetical syllogism, ((p → q) ∧ (q → r)) → (p → r).<br><b> If Punu is cute, then she is cuddly. And if Punu is cuddly, then she is short. Therefore, if Punu is cuddly, then Punu is short.</b>
 
 - Special exercise, find the logical equivalence <br> Given: [(p v q) ∧ (-p v r)] → (q v r)<br> Step by step process:
 
@@ -125,11 +125,11 @@ Anne Janelle N. Francisco
 
 - Assignment given on June 23, 2016:
 
-- 1.5 / 5: Let W (x, y) mean that student x has visited website y, where the domain for x consists of all students in your school and the domain for y consists of all websites. Express each of these statements by a simple English sentence.<br> c) ∃y W (José Orez, y ) = Jose Orez has visited some websites.
+- 1.5 / 5: Let W (x, y) mean that student x has visited website y, where the domain for x consists of all students in your school and the domain for y consists of all websites. Express each of these statements by a simple English sentence.<br><b> c) ∃y W (José Orez, y ) = Jose Orez has visited some websites.</b>
 
-- 1.5 / 7: Let T(x,y)mean that student x likes cuisine y,wherethe domain for x consists of all students at your school and the domain for y consists of all cuisines. Express each of these statements by a simple English sentence.<br> d) ∀x∀z∃y((x̸=z)→¬(T(x,y)∧T(z,y))) = For every pair of distinct students at your school, there is some cuisine that at least one them does not like.
+- 1.5 / 7: Let T(x,y)mean that student x likes cuisine y,wherethe domain for x consists of all students at your school and the domain for y consists of all cuisines. Express each of these statements by a simple English sentence.<br><b> d) ∀x∀z∃y((x̸=z)→¬(T(x,y)∧T(z,y))) = For every pair of distinct students at your school, there is some cuisine that at least one them does not like.</b>
 
-- 1.5 / 9: Let L(x, y) be the statement “x loves y,” where the domain for both x and y consists of all people in the world. Use quantifiers to express each of these statements.<br> e) There is somebody whom Lydia does not love. = ∃y -L(Lydia,y)
+- 1.5 / 9: Let L(x, y) be the statement “x loves y,” where the domain for both x and y consists of all people in the world. Use quantifiers to express each of these statements.<br><b> e) There is somebody whom Lydia does not love. = ∃y -L(Lydia,y)</b>
 
 # Week 3
 - Assignment given on June 28, 2016
@@ -144,6 +144,12 @@ Anne Janelle N. Francisco
 | m + 2n + p - 2n = 2s + 2u - 2n | We now subtract 2n from both sides of the equation |
 | m + p = 2s + 2u -2n | Factor out the 2 from the right side |
 | m + p = 2(s + u - n) | Consider (s + u - n) as one integer |
-  Therefore, m + p is an even integer. We used direct proof.
+  <b>Therefore, m + p is an even integer. We used direct proof.
 
-- 1.7 / 19: Prove the proposition P (0), where P (n) is the proposition “If n is a positive integer greater than 1, then n2 > n.” What kind of proof did you use?<br>0 is not an integer, therefore the proposition is vacuosuly true.
+- 1.7 / 19: Prove the proposition P (0), where P (n) is the proposition “If n is a positive integer greater than 1, then n2 > n.” What kind of proof did you use?<br><b>0 is not an integer, therefore the proposition is vacuosuly true.</b>
+
+
+# Week 4
+- I answered the following in class today (July 5, 2016):
+
+- 1.7 / 37: Show that the propositions p1, p2, p3, p4, and p5 can be shown to be equivalent by proving that the conditional statements p1 → p4, p3 → p1, p4 → p2, p2 → p5, and p5 → p3 are true.<br><b>[(p1 → p4) ∧ (p4 → p2) ∧ (p2 → p5) ∧ (p5 → p3) ∧ (p3 → p1)] → (p1 → p1)<br><b>We used hypothetical syllogism.</b>
