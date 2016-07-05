@@ -156,12 +156,12 @@ Anne Janelle N. Francisco
 
 - 1.7 / 29: Prove or disprove that if m and n are integers such that mn = 1, then either m = 1 and n = 1, or else m = −1 and n = −1.
 
-| m and n are integers |
+  | m and n are integers |
 | :--- |
 | mn = 1 ; m=1 and n=1 OR m=-1 and n=-1 |
 | mn=1 → {[(m=1) ∧ (n=1)] OR [(m=-1) ∧ (n=-1)]} ; p → (q v r) |
 | Using p is equal to mn=1, we can get the equations m=1/n. |
-| From q, we substitute the value of m to the equation from p. m=1/n, 1=1/n, n=1. This satisfies the given n=1. |
-| From r, we substitute the value of m to the equation from p. m=1/n, -1=1/n, n=-1. This satisfies the given n=-1. |
+| From q, we substitute the value of m to the equation from p. m=1/n, 1=1/n, n=1. <br>This satisfies the given n=1. |
+| From r, we substitute the value of m to the equation from p. m=1/n, -1=1/n, n=-1. <br>This satisfies the given n=-1. |
 | <b>We used direct proof</b> |
 
