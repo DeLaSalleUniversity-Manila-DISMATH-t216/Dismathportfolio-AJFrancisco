@@ -144,7 +144,7 @@ Anne Janelle N. Francisco
 | m + 2n + p - 2n = 2s + 2u - 2n | We now subtract 2n from both sides of the equation |
 | m + p = 2s + 2u -2n | Factor out the 2 from the right side |
 | m + p = 2(s + u - n) | Consider (s + u - n) as one integer |
-  <b>Therefore, m + p is an even integer. We used direct proof.
+  <b>Therefore, m + p is an even integer. We used direct proof.</b>
 
 - 1.7 / 19: Prove the proposition P (0), where P (n) is the proposition “If n is a positive integer greater than 1, then n2 > n.” What kind of proof did you use?<br><b>0 is not an integer, therefore the proposition is vacuosuly true.</b>
 
