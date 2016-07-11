@@ -173,3 +173,20 @@ Anne Janelle N. Francisco
 | From q, we substitute the value of m to the equation from p. m=1/n, 1=1/n, n=1. <br>This satisfies the given n=1. |
 | From r, we substitute the value of m to the equation from p. m=1/n, -1=1/n, n=-1. <br>This satisfies the given n=-1. |
 | <b>We used direct proof.</b> |
+
+- Assignment for July 7, 2016
+- 1.8 / 7: Prove the triangle inequality, which states that if x and y are real numbers, then |x| + |y| ≥ |x + y| (where |x| represents the absolute value of x, which equals x if x ≥ 0 and equals −x if x < 0).
+  We use <b>Exhaustive proof</b>
+  * Case 1<br>x ≥ 0 ; y ≥ 0<br>|x| + |y| = x + y = |x+y|
+  * Case 2<br>x < 0 ; y < 0<br>|x| + |y| = |-x| + |(-y)| = |-(x+y)| = |x+y|
+  * Case 3<br>x ≥ 0 ; y < 0<br>|x| + |y| = x + (-y) > x + y = |x + y|
+
+- I was able to answer the following in class today (July 7, 2016)
+  * 2 / 1.c: List the members of these sets, {x|x is the square of an integer and x < 100}<br><b>1,2,3,4,5,6,7,8,9,10,11</b>
+  * 2 / 4.b: For each of these pairs of sets, determine whether the first is a subset of the second, the second is a subset of the first, or neither is a subset of the other. The set of fruits, the set of citrus fruits.<br><b>The second set is the subset of the first set.</b>
+  * 2 / 7.b: For each of the following sets, determine whether 2 is an element of that set. {x ∈ R|x is the square of an integer}<br><b>No</b>
+  * 2 / 9.d: Determine whether each of these statements is true or false. ∅ ⊂{0}.<br><b>0 is a subset to every set, so true.</b>
+  * 2 / 10.d: Determine whether these statements are true or false. {∅} ∈ {{∅}}.<br><b>True</b>
+  * 2 / 11.d: Determine whether each of these statements is true or false. {x}∈{{x}}.<br><b>True</b>
+  * 2 / 21.a: Find the power set of each of these sets, where a and b are distinct elements. {a}.<br><b>{0,{a}}</b>
+  * 2 / 24.a: Determine whether each of these sets is the power set of a set, where a and b are distinct elements. ∅.<br><b>Yes, power set of a null set.</b>
