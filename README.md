@@ -190,3 +190,15 @@ Anne Janelle N. Francisco
   * 2 / 11.d: Determine whether each of these statements is true or false. {x}∈{{x}}.<br><b>True</b>
   * 2 / 21.a: Find the power set of each of these sets, where a and b are distinct elements. {a}.<br><b>{0,{a}}</b>
   * 2 / 24.a: Determine whether each of these sets is the power set of a set, where a and b are distinct elements. ∅.<br><b>Yes, power set of a null set.</b>
+  
+- I was able to answer the following in class today]
+  * 2.1 / 1.b: List the members of these sets, {x | x is the square of an integer and x < 100}<br>
+  * 2.1 / 4.b: For each of these pairs of sets, determine whether the first is a subset of the second, the second is a subset of the first, or neither is a subset of the other.<br>
+  * 2.1 / 7.b: For each of the following sets, determine whether 2 is an element of that set.<br>
+  * 2.1 / 9.d: Determine whether each of these statements is true or false, d) ∅ ⊂ {0}
+  * 2.1 / 10.d: Determine whether these statements are true or false, d) {∅} ∈ {{∅}}  <br>
+  * 2.1 / 11.d: Determine whether each of these statements is true or false, d) {x} ∈ {{x}}<br>
+
+# Week 5
+
+# Week 6
