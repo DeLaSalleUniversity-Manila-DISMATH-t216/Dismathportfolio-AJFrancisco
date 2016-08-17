@@ -191,7 +191,7 @@ Anne Janelle N. Francisco
   * 2 / 21.a: Find the power set of each of these sets, where a and b are distinct elements. {a}.<br><b>{0,{a}}</b>
   * 2 / 24.a: Determine whether each of these sets is the power set of a set, where a and b are distinct elements. ∅.<br><b>Yes, power set of a null set.</b>
   
-- I was able to answer the following in class today]
+- I was able to answer the following in class today
   * 2.1 / 1.b: List the members of these sets, {x | x is the square of an integer and x < 100}<br>
   * 2.1 / 4.b: For each of these pairs of sets, determine whether the first is a subset of the second, the second is a subset of the first, or neither is a subset of the other.<br>
   * 2.1 / 7.b: For each of the following sets, determine whether 2 is an element of that set.<br>
@@ -200,5 +200,27 @@ Anne Janelle N. Francisco
   * 2.1 / 11.d: Determine whether each of these statements is true or false, d) {x} ∈ {{x}}<br>
 
 # Week 5
+- QUIZ 1 and CALL OFF
 
 # Week 6
+
+| Function | Definition |
+|:---|:--|
+| One to One Function | One domain is to one codomain |
+| Onto Function | One domain can have two codomains |
+| One to One AND not Onto Function | One domain is to one codomain, but there is one codomain that has no domain |
+| Onto AND not One to One Function | There is one codomain that has two domains |
+| One to One AND Onto Function | One domain is to one codomain |
+| Neither One to One NOR Onto Function | There is one codomain that has two domains AND one codomain that has no domain |
+| Not a function | There is a domain that has two codomains |
+
+- I was able to answer the following in class today
+  * 2.3 / 3c: Determine whether f is a function from the set of all bit strings to the set of integers if: f (S) is the smallest integer i such that the ith bit of S is 1 and f (S) = 0 when S is the empty string, the string with no bits.<br><b>Not a function</b>
+  * 2.3 / 5a: Find the domain and range of these functions. Note that in each case, to find the domain, determine the set of elements assigned values by the function: the function that assigns to each bit string the number of ones in the string minus the number of zeros in the string.<br><b>Domain = set of bit strings and Range = set of integers</b>
+
+- Assignment
+- 2.3 / 17: Consider these functions from the set of teachers in a school. Under what conditions is the function one-to-one if it assigns to a teacher his or her:
+  * a) office. <b>It depends if its office sharing or not</b>
+  * b) assigned bus to chaperone in a group of buses taking students on a field trip. <b>It depends if one chaperone is assigned with one or two buses.</b>
+  * c) salary. <b>Not one to one function. Some salaries depend of the number of years of the teacher or his/her professionalism.</b>
+  * d) social security number. <b>One to one function because no to numbers should be alike.</b>
